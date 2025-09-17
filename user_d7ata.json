@@ -47,7 +47,7 @@
             "1962178913": "سوبر امازون"
         },
         "broadcasting": {
-            "active": true,
+            "active": false,
             "step": "awaiting_here",
             "templates": [
                 {
