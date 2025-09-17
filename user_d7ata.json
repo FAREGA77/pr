@@ -1,0 +1,44 @@
+{
+    "7770313285": {
+        "templates": {},
+        "known_chats": {
+            "1220097377": "˛ 𝖬bc N𝗂n𝖾 ."
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "محد مهتم....!☹️💔"
+                }
+            ],
+            "interval": 30,
+            "groups": [
+                "channel:1220097377"
+            ],
+            "last_msg_id": [
+                301
+            ],
+            "here_groups": [
+                "1220097377"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": false,
+            "broadcast_type": "groups",
+            "sleep_time": 30,
+            "template_pattern": "1",
+            "groups": [
+                "channel:1220097377"
+            ],
+            "templates": [
+                {
+                    "text": "محد مهتم....!☹️💔"
+                }
+            ],
+            "group_rotation": {
+                "1220097377": 23
+            }
+        }
+    }
+}
