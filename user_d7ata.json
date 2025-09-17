@@ -9,15 +9,15 @@
             "step": "awaiting_here",
             "templates": [
                 {
-                    "text": "محد مهتم....!☹️💔"
+                    "text": "بـس اشـاهـد..!! 🚶‍♂"
                 }
             ],
-            "interval": 30,
+            "interval": 40,
             "groups": [
                 "channel:1220097377"
             ],
             "last_msg_id": [
-                301
+                733813
             ],
             "here_groups": [
                 "1220097377"
@@ -26,18 +26,66 @@
         "broadcast_status": {
             "is_broadcasting": false,
             "broadcast_type": "groups",
-            "sleep_time": 30,
+            "sleep_time": 40,
             "template_pattern": "1",
             "groups": [
                 "channel:1220097377"
             ],
             "templates": [
                 {
-                    "text": "محد مهتم....!☹️💔"
+                    "text": "بـس اشـاهـد..!! 🚶‍♂"
                 }
             ],
             "group_rotation": {
-                "1220097377": 23
+                "1220097377": 4
+            }
+        }
+    },
+    "7990051059": {
+        "templates": {},
+        "known_chats": {
+            "1962178913": "سوبر امازون"
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "متوفر تصميم ملصقات مميز ..."
+                },
+                {
+                    "text": "متوفر تصميم ملصقات مميز ... @D_D_XO"
+                }
+            ],
+            "interval": 150,
+            "groups": [
+                "channel:1962178913"
+            ],
+            "last_msg_id": [
+                3267
+            ],
+            "here_groups": [
+                "1962178913"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 150,
+            "template_pattern": "2",
+            "groups": [
+                "channel:1962178913"
+            ],
+            "templates": [
+                {
+                    "text": "متوفر تصميم ملصقات مميز ..."
+                },
+                {
+                    "text": "متوفر تصميم ملصقات مميز ... @D_D_XO"
+                }
+            ],
+            "group_rotation": {
+                "1962178913": 28
             }
         }
     }
